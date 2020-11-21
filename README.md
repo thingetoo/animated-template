@@ -1,5 +1,5 @@
 # Animated Template
-> Shoot all the bugs down to win the game!
+> An an animated template with different elements appearing on the scroll event
 
 ## Table of contents
 * [General info](#general-info)
@@ -7,7 +7,7 @@
 * [Third-party](#third-party)
 
 ## General info
-Based off of the popular game, space invaders, you must shoot down all of the bug enemies to win the game. 
+A great starter file for those wanting an animated interactive website. 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
